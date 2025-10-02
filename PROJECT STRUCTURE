@@ -1,0 +1,12 @@
+road-accident-analysis-prediction/
+│── data/
+│   └── accidents.csv        # dataset (placeholder)
+│── notebooks/
+│   └── analysis.ipynb       # Jupyter Notebook for EDA + ML
+│── src/
+│   ├── preprocess.py        # data cleaning & feature engineering
+│   ├── train_model.py       # model training & evaluation
+│   └── predict.py           # prediction script
+│── requirements.txt         # Python dependencies
+│── README.md                # project documentation
+│── .gitignore
